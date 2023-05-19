@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Elizabeth Wolfe, Holly Yan, Amanda Watts",
+            "title": "Police have identified the 5 people killed in Colorado Springs LGBTQ club shooting - CNN",
+            "description": "While police haven't released more details about the motive, the massacre at Club Q -- a longtime safe haven for the local LGBTQ community -- has shattered a sense of security.",
+            "url": "https://www.cnn.com/2022/11/21/us/colorado-springs-club-q-shooting-monday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221121130336-colorado-shooting.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-22T03:54:00Z",
+            "content": "The man suspected of killing five people and wounding 17 others at a Colorado Springs LGBTQ nightclub will face multiple murder and hate crime charges, court records show.\r\nPolice have identified the… [+10203 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Oliver Darcy",
+            "title": "Bob Iger moves fast to dismantle Chapek's reorganization of Disney - CNN",
+            "description": "One day after the shock announcement of Bob Iger's return to Disney, and the resulting ouster of his successor-turned-predecessor Bob Chapek, an astonished Hollywood is grappling with what exactly the move will mean for the entertainment behemoth's short-term…",
+            "url": "https://www.cnn.com/2022/11/21/media/bob-iger-bob-chapek-disney-reliable-sources/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221122102619-robert-iger-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-22T03:38:00Z",
+            "content": "One day after the shock announcement of Bob Igers return to Disney, and the resulting ouster of his successor-turned-predecessor Bob Chapek, an astonished Hollywood is grappling with what exactly the… [+3269 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Deidre McPhillips",
+            "title": "Study suggests that HDL or 'good' cholesterol is less beneficial than previously thought, especially for Black adults - CNN",
+            "description": "High-density lipoprotein, or HDL, cholesterol -- often referred to as the \"good\" cholesterol -- may not be as useful in predicting the risk of heart disease and protecting against it as previously thought, according to new researched funded by the National In…",
+            "url": "https://www.cnn.com/2022/11/21/health/hdl-cholesterol-study/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221122090242-vial-of-blood.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-22T02:57:00Z",
+            "content": "High-density lipoprotein, or HDL, cholesterol often referred to as the good cholesterol may not be as useful in predicting the risk of heart disease and protecting against it as previously thought, a… [+2489 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Masrur Jamaluddin, Rhea Mogul",
+            "title": "Magnitude 5.6 earthquake leaves at least 162 dead in Indonesia - CNN",
+            "description": "At least 162 people have died after a 5.6-magnitude earthquake hit Indonesia's West Java province on Monday, according to the country's National Agency for Disaster Management (BNPB).",
+            "url": "https://www.cnn.com/2022/11/21/asia/earthquake-west-java-indonesia-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221121105427-01-java-earthquake-112122.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-22T02:36:00Z",
+            "content": "Rescuers are digging through debris on Tuesday to find survivors of a powerful earthquake that toppled homes and buildings in a highly populated area of Indonesias West Java province, killing dozens … [+2883 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chris Cillizza",
+            "title": "Paul Ryan invents a new category of anti-Trumpism - CNN",
+            "description": "You know all about the \"Never Trumpers\" -- that rump group of Republicans who have loudly spoken out against former President Donald Trump and what he has done to the GOP.",
+            "url": "https://www.cnn.com/2022/11/21/politics/paul-ryan-never-again-trump-2024/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221121115154-paul-ryan-1218-file-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-21T16:56:00Z",
+            "content": "You know all about the Never Trumpers that rump group of Republicans who have loudly spoken out against former President Donald Trump and what he has done to the GOP.\r\nNow meet the Never-Again Trumpe… [+3633 chars]"
+        }
+    ]
+}
